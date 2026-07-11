@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+*{font-family:Poppins,sans-serif}
+body{margin:0;background:#f1f5f9}
+#wrapper{background:#f1f5f9}
+#header{background:linear-gradient(135deg,#1d4ed8,#3b82f6)!important;color:#fff;padding:30px;height:auto;border-radius:0 0 20px 20px;box-shadow:0 10px 25px rgba(0,0,0,.1)}
+#sidebar-wrapper{width:260px;background:#0f172a!important;min-height:100vh}
+#content-wrapper{width:calc(100% - 260px);background:#f8fafc;padding:25px}
+#login-details{padding:20px;background:#1e293b}
+input,select,textarea{border:1px solid #cbd5e1!important;border-radius:12px!important;padding:10px!important}
+.btn-success,.btn-primary{background:#2563eb!important;border:none!important}
+.btn-warning{border:none!important}
+.form-horizontal{background:#fff;padding:25px;border-radius:20px;box-shadow:0 5px 20px rgba(0,0,0,.08)}
+.control-group{margin-bottom:15px}
+.controls{margin-top:5px}

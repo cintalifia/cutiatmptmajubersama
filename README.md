@@ -59,6 +59,13 @@ Aplikasi **E-Cuti PT Maju Bersama** adalah sistem berbasis web yang dirancang un
 - Melihat sisa cuti pribadi.
 - Mengganti password akun.
 
+# Live Demo
+Aplikasi dapat diakses secara online:
+
+🔗 http://cutiatmptmajubersama.infinityfree.me/
+
+Silakan login menggunakan akun yang tersedia untuk mencoba fitur sistem.
+
 ## 🔄 Flowchart Sistem
 
 Flowchart berikut menggunakan **Mermaid**, sehingga dapat tampil otomatis di GitHub atau editor Markdown yang mendukung Mermaid.
